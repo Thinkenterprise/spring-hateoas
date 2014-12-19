@@ -1,0 +1,16 @@
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\data\persistence\entity\AbstractEntity.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\data\persistence\entity\hateoas\JavaMagazineResourceAssembler.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\data\persistence\IArticleRepository.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\data\persistence\entity\hateoas\JavaMagazinePageResourceAssembler.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\interaction\resource\ArticleResourceController.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\ApplicationHateoas.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\interaction\resource\hateoas\ArticleResourceController.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\data\persistence\entity\hateoas\ArticleResource.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\data\persistence\entity\Article.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\data\persistence\entity\hateoas\JavaMagazineResource.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\data\persistence\entity\hateoas\ArticleResourceAssembler.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\data\persistence\entity\JavaMagazine.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\data\persistence\IJavaMagazineRepository.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\interaction\resource\JavaMagazineResourceController.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\interaction\resource\hateoas\JavaMagazineResourceController.java
+D:\xt\projects\javamagazin artikel\javamagazin-spring-rest-hatoas\src\main\java\com\msg\psc\Application.java

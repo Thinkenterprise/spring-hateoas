@@ -1,0 +1,16 @@
+com\msg\psc\data\persistence\entity\AbstractEntity.class
+com\msg\psc\interaction\resource\ArticleResourceController.class
+com\msg\psc\data\persistence\IArticleRepository.class
+com\msg\psc\data\persistence\entity\Article.class
+com\msg\psc\ApplicationHateoas.class
+com\msg\psc\Application.class
+com\msg\psc\data\persistence\entity\hateoas\ArticleResource.class
+com\msg\psc\data\persistence\entity\hateoas\ArticleResourceAssembler.class
+com\msg\psc\data\persistence\entity\hateoas\JavaMagazineResource.class
+com\msg\psc\interaction\resource\hateoas\JavaMagazineResourceController.class
+com\msg\psc\data\persistence\entity\hateoas\JavaMagazinePageResourceAssembler.class
+com\msg\psc\interaction\resource\hateoas\ArticleResourceController.class
+com\msg\psc\data\persistence\entity\hateoas\JavaMagazineResourceAssembler.class
+com\msg\psc\data\persistence\entity\JavaMagazine.class
+com\msg\psc\data\persistence\IJavaMagazineRepository.class
+com\msg\psc\interaction\resource\JavaMagazineResourceController.class
